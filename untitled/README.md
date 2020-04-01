@@ -54,7 +54,7 @@
 
 [原始类型](JavaScript/Untitled%204.md)
 
-[Array](array.md)
+[Array](../shu-ju-jie-gou/array.md)
 
 [Object](object.md)
 
