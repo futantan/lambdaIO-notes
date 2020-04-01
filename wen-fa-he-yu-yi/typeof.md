@@ -3,13 +3,12 @@
 `typeof` 是运算符，所以后面加不加括号都可以
 
 ```javascript
-typeof null          // object!!
-typeof undefined     // undefined 
-typeof 'abc'         // string
-typeof String('abc') // string
-
-typeof [] // 'object'
-typeof {} // 'object'
+typeof null                                   // object!!
+typeof undefined                              // undefined 
+typeof 'abc'                                  // string
+typeof String('abc')                          // string
+typeof []                                     // 'object'
+typeof {}                                     // 'object'
 typeof new String('abc')                      // object！！
 typeof new Array('foo', 'bar')                // object
 typeof new Function('x', 'y', 'return x * y') // function
@@ -17,9 +16,9 @@ typeof function() {}                          // function
 typeof new RegExp('\\bt[a-z]+\\b')            // object
 ```
 
-函数是最容易鉴别的引用类型，因为对函数使用 typeof 操作符时，返回值总是 `"function"`。
+函数是最容易鉴别的引用类型，因为对函数使用 typeof 操作符时，返回值总是 `"function"`
 
-还有一个不错的判断类型的方法，就是Object.prototype.toString，我们可以利用这个方法来对一个变量的类型来进行比较准确的判断
+还有一个不错的判断类型的方法，就是 `Object.prototype.toString`，我们可以利用这个方法来对一个变量的类型来进行比较准确的判断
 
 ```javascript
 Object.prototype.toString.call(1)         // "[object Number]"
@@ -31,6 +30,7 @@ Object.prototype.toString.call(() => {})  // "[object Function]"
 Object.prototype.toString.call(null)      // "[object Null]"
 Object.prototype.toString.call(undefined) // "[object Undefined]"
 Object.prototype.toString.call(Symbol(1)) // "[object Symbol]"
+Object.prototype.toString.call(/abc/)     // "[object RegExp]"
 ```
 
 ### null

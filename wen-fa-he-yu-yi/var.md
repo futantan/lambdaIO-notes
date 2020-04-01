@@ -1,8 +1,19 @@
 # var
 
-var a = 123 b = 123 function hello\(\) { msg = "hello" } hello\(\) msg === "hello"
+```javascript
+var a = 123        // 1
+b = 123            // 2
+function hello() {
+	msg = "hello"    // 3
+}
+hello()
+msg === "hello"
+```
 
-这两种方式的区别： If you’re in the global scope then there’s no difference.
+使用 var 和不使用 var 这两种方式的区别：
 
-If you’re in a function then var will create a local variable, “no var” will look up the scope chain until it finds the variable or hits the global scope \(at which point it will create it\):
+* 如果是在 global scope，没有区别
+* 如果是在函数作用域中，没有 var 的会一直在作用域链中查找，直至找到，没有找到的话会创建一个
+
+不推荐使用 var
 

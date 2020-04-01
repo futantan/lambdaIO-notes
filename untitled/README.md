@@ -42,7 +42,7 @@
 
 [Enumeration](../wen-fa-he-yu-yi/enumeration.md)
 
-[Async](../wen-fa-he-yu-yi/async.md)
+[Async](async.md)
 
 [访问器属性](JavaScript/Untitled%202.md)
 

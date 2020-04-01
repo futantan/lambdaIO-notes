@@ -1,18 +1,16 @@
 # console
 
-## console.log
-
-```text
-const a = { name: 'alice', age: 10};
-console.log(a);
-[a.name](http://a.name) = 'b0b';
+```javascript
+const a = { name: 'alice', age: 10 }
+console.log(a)
+a.name = 'bob';
 
 // 这个时候，如果打开之前的 log，会发现 a.name 是 'bob'
 ```
 
-> WebKit的console.log由于表现出异步行为而让很多开发者惊诧不已。
+> WebKit的 `console.log` 由于表现出异步行为而让很多开发者惊诧不已。
 >
-> WebKit的console.log并没有立即拍摄对象快照，相反，它只存储了一个指向对象的引用，然后在代码返回事件队列时才去拍摄快照。Node的console.log是另一回事，它是严格同步的，
+> WebKit 的 `console.log` 并没有立即拍摄对象快照，相反，它只存储了一个指向对象的引用，然后在代码返回事件队列时才去拍摄快照。Node 的 `console.log` 是另一回事，它是严格同步的，
 
 ## API
 
