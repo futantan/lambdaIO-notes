@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [index](untitled.md)
 
 ## JavaScript
 
 ## 文法和语义
 
-* [for in - object](wen-fa-he-yu-yi/untitled.md)
+* [for of - Array](wen-fa-he-yu-yi/for-of-array.md)
+* [for in - Object](wen-fa-he-yu-yi/untitled.md)
+* [in](wen-fa-he-yu-yi/in.md)
+* [typeof](wen-fa-he-yu-yi/typeof.md)
 

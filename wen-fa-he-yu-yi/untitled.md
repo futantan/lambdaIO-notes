@@ -1,4 +1,4 @@
-# for in - object
+# for in - Object
 
 `for in` 用来遍历 `object` 中非 `Symbol` 的可枚举的属性。
 
