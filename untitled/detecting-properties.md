@@ -1,0 +1,4 @@
+# Detecting Properties
+
+hasOwnProperty
+
