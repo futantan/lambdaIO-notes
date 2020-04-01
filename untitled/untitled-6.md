@@ -1,4 +1,4 @@
-# Untitled 6
+# 递归
 
 Recursion: JavaScript technically supports recursion, but most functional languages have a feature called proper tail calls. Proper tail calls are a language feature which allows recursive functions to reuse stack frames for recursive calls.
 

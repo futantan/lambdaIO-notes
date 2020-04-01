@@ -26,7 +26,7 @@ console.log(
 
 > Prototype chain A prototype chain is a finite chain of objects used to implement inheritance and shared properties.
 
-![prototype/Untitled.png](../.gitbook/assets/untitled.png)
+![prototype/Untitled.png](../../.gitbook/assets/untitled.png)
 
 ```text
 point3D.__proto__ // point

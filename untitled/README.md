@@ -1,4 +1,4 @@
-# JavaScript
+# 执行过程
 
 文法 和 语义
 
@@ -6,9 +6,9 @@
 
 [for of Array](JavaScript/for%20of%20Array.md)
 
-[in](in.md)
+[in]()
 
-[typeof](typeof.md)
+[typeof]()
 
 [var](../wen-fa-he-yu-yi/var.md)
 
@@ -20,9 +20,9 @@
 
 [toString](../wen-fa-he-yu-yi/tostring.md)
 
-[!!](untitled-10.md)
+[!!]()
 
-[IIFE](iife.md)
+[IIFE]()
 
 [call & apply](JavaScript/this/call%20apply.md)
 
@@ -54,9 +54,9 @@
 
 [原始类型](JavaScript/Untitled%204.md)
 
-[Array](../shu-ju-jie-gou/array.md)
+[Array](../shu-ju-jie-gou/array/)
 
-[Object](object.md)
+[Object](object-2/object.md)
 
 [Regex](regex.md)
 
@@ -68,13 +68,13 @@
 
 [尾递归](JavaScript/Untitled%206.md)
 
-[function](function.md)
+[function](function/)
 
 [AOP](aop.md)
 
 [Respond to an unknown method call](JavaScript/Respond%20to%20an%20unknown%20method%20call.md)
 
-[Polyfill](polyfill.md)
+[Polyfill](gong-cheng/polyfill.md)
 
 [Refactor using codemod](JavaScript/Refactor%20using%20codemod.md)
 
@@ -84,7 +84,7 @@
 
 [Thunk](thunk.md)
 
-[Babel](babel.md)
+[Babel](babel/)
 
 [Ramda](ramda.md)
 

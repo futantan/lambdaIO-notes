@@ -1,6 +1,6 @@
 # Array
 
-[slice](../untitled/slice.md)
+[slice](slice.md)
 
 [sparse vs. dense arrays 稀疏数组与密集数组](JavaScript/Array/sparse%20vs%20dense%20arrays.md)
 

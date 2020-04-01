@@ -1,4 +1,4 @@
-# Untitled
+# prototype
 
 几乎所有的函数都有prototype属性，它可以被修改或替换。该prototype属性被自动设置为一个新的继承自Object.prototype的泛用对象，该对象有一个自有属性constructor。实际上，JavaScript引擎为你做了下面的事情。
 

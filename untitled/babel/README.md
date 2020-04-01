@@ -2,7 +2,7 @@
 
 [Custom operator](JavaScript/Babel/Custom%20operator.md)
 
-![Babel/Untitled.png](../.gitbook/assets/untitled%20%281%29.png)
+![Babel/Untitled.png](../../.gitbook/assets/untitled%20%281%29.png)
 
 [LOLCODE-to-JavaScript compiler babel macro - A geek with a hat](https://swizec.com/blog/lolcode-to-javascript-compiler-babel-macro/swizec/9083)
 
