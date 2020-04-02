@@ -12,8 +12,6 @@ Even though normal functions have no use for this, it still exists as a special 
 * apply
 * bind \(bind 在修改 this 的同时，也可以 partially apply argument\)
 
-[call & apply](JavaScript/this/call%20apply.md)
-
 Another application of this, is generic interface functions, which can be used in mixins or traits.
 
 In the following example, the Movable interface contains generic function move, which expects the users of this mixin to implement \_x, and \_y properties:

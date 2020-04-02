@@ -1,8 +1,8 @@
 # IIFE
 
-立即调用函数表达式
+立即调用函数表达式（Immediately Invoked Function Expression）
 
-```text
+```javascript
 var yourObject = (function() {
   // private data varibles
   rerturn {

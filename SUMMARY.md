@@ -24,6 +24,7 @@
   * [Generators](wen-fa-he-yu-yi/generators.md)
   * [Enumeration](wen-fa-he-yu-yi/enumeration.md)
 * [数据结构](shu-ju-jie-gou/README.md)
+  * [NaN](shu-ju-jie-gou/nan.md)
   * [undefined](shu-ju-jie-gou/undefined.md)
   * [Array](shu-ju-jie-gou/array/README.md)
     * [sparse vs dense arrays](shu-ju-jie-gou/array/sparse-vs-dense-arrays.md)

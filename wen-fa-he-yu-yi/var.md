@@ -3,9 +3,11 @@
 ```javascript
 var a = 123        // 1
 b = 123            // 2
+
 function hello() {
 	msg = "hello"    // 3
 }
+
 hello()
 msg === "hello"
 ```
