@@ -56,9 +56,9 @@
 
 [Array](../shu-ju-jie-gou/array/)
 
-[Object](object-2/object.md)
+[Object](../shu-ju-jie-gou/object-2/object.md)
 
-[Regex](regex.md)
+[Regex](../shu-ju-jie-gou/regex.md)
 
 [深拷贝](JavaScript/Untitled%205.md)
 
@@ -74,7 +74,7 @@
 
 [Respond to an unknown method call](JavaScript/Respond%20to%20an%20unknown%20method%20call.md)
 
-[Polyfill](gong-cheng/polyfill.md)
+[Polyfill](../gong-cheng/polyfill.md)
 
 [Refactor using codemod](JavaScript/Refactor%20using%20codemod.md)
 
@@ -84,7 +84,7 @@
 
 [Thunk](thunk.md)
 
-[Babel](babel/)
+[Babel](../gong-cheng/babel/)
 
 [Ramda](ramda.md)
 

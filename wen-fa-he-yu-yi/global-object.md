@@ -1,6 +1,6 @@
 # Global object
 
-在浏览器中，使用 `var` 声明的变量会放在 `window` 上。
+在浏览器中，在 global 使用 `var` 声明的变量会放在 `window` 上。
 
 ```text
 var a = 123

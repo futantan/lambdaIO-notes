@@ -2,9 +2,9 @@
 
 [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
 
-[instanceof](../instanceof.md)
+[instanceof](../../untitled/instanceof.md)
 
-[new](../new.md)
+[new](../../untitled/new.md)
 
 [Constructor](constructor.md)
 
